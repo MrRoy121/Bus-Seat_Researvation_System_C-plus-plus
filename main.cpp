@@ -27,7 +27,6 @@ int main() {
              << "5. Exit";
         cout << "\n\t\t\tEnter your choice:-> ";
         cin >> w;
-
         switch (w) {
             case 1:
                 bus[p].install();
