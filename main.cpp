@@ -25,7 +25,7 @@ int main() {
              << "3. Show\n\t\t\t"
              << "4. Buses Available\n\t\t\t"
              << "5. Exit";
-        cout << "\n\t\t\tEnter your choice:-> ";
+        cout << "\n\t\t\tMake your choice:-> ";
         cin >> w;
         switch (w) {
             case 1:
